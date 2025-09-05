@@ -1,0 +1,4 @@
+#DELETRO DE PALABRAS
+p = input("Dame una palabrla")
+for i in p:
+    print(i)
